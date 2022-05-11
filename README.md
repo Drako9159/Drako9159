@@ -8,7 +8,7 @@ Take Your Time <img width="25px" src="./assets/ico_time.png"/>
 - Network and telecommunications technician 📶
 ### Full Stack Developer
 
-<img width="25px" src="./assets/icon_css.png"/><img width="25px" src="./assets/icon_java.png"/><img width="25px" src="./assets/icon_js.png"/><img width="25px" src="./assets/icon_node.png"/><img width="25px" src="./assets/icon_vue.png"/><img width="25px" src="./assets/icon_mysql.png"/><img width="25px" src="./assets/icon_postgre.png"/><img width="25px" src="./assets/icon_html.png"/>
+<img width="30px" src="./assets/icon_css.png"/><img width="30px" src="./assets/icon_java.png"/><img width="30px" src="./assets/icon_js.png"/><img width="30px" src="./assets/icon_node.png"/><img width="30px" src="./assets/icon_vue.png"/><img width="30px" src="./assets/icon_mysql.png"/><img width="30px" src="./assets/icon_postgre.png"/><img width="30px" src="./assets/icon_html.png"/>
 
 
 
