@@ -10,7 +10,8 @@ Take Your Time <img width="25px" src="./assets/ico_time.png"/>
 
 <img width="30px" src="./assets/icon_css.png"/><img width="30px" src="./assets/icon_html.png"/><img width="30px" src="./assets/icon_js.png"/><img width="30px" src="./assets/icon_node.png"/><img width="30px" src="./assets/icon_vue.png"/><img width="30px" src="./assets/icon_mysql.png"/><img width="30px" src="./assets/icon_postgre.png"/><img width="30px" src="./assets/icon_java.png"/>
 
-
+### Social media
+<a href="https://twitter.com/Drako9159"><img width="30px" src="./assets/icon_twitter.png"/></a>
 
 
 
