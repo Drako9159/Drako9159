@@ -1,5 +1,12 @@
-<h1 align="center">Take Your Time <img width="25px" src="./assets/ico_time.png"/></h1>
 
+Take Your Time <img width="25px" src="./assets/ico_time.png"/>
+==============
+## Hi there 👋 I'm Antonio Jaramillo
+
+- Systems engineer 💻
+- Electrical technician 👨‍🔧
+- Network and telecommunications technician 📶
+### Full Stack Developer
 <!--
 **Drako9159/Drako9159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
