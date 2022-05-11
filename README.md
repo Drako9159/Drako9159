@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Take Your Time</h1><img src="./assets/ico_time.png">
 
 <!--
 **Drako9159/Drako9159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
