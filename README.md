@@ -1,8 +1,8 @@
 
-Take Your Time <img width="25px" src="./assets/ico_time.png"/>
-===============
+<h1 align="center">Take your time <img tarjet ="blank" width="25px" src="./assets/ico_time.png"/></h1>
+<h2>Hi there 👋 I'm Antonio Jaramillo  |<a href="https://twitter.com/Drako9159"><img width="35px" src="./assets/icon_twitter.png"/></a></h2>
 
-## Hi there 👋 I'm Antonio Jaramillo  | <a href="https://twitter.com/Drako9159"><img width="35px" src="./assets/icon_twitter.png"/></a>
+
 - Systems engineer 💻
 - Network and telecommunications technician 📶
 ### Full Stack Developer
