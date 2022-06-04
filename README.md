@@ -9,7 +9,7 @@
 
 #### Full Stack Developer
 <p align="left"><img width="30" src="./assets/icon_css.png">
-<img width="30" src="./assets/icon_js.png">
+<img width="30" tarjet="blank" src="./assets/icon_js.png">
 <img width="30" src="./assets/icon_html.png">
 <img width="30" src="./assets/icon_node.png">
 <img width="30" src="./assets/icon_vue.png">
