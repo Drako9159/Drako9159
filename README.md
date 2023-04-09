@@ -1,5 +1,5 @@
 <h1 align="center">Antonio Jaramillo <a href="https://twitter.com/Drako9159"><img width="35" src="./assets/icon_twitter.png"/></a> </h1>
-<h3 align="center">Farmer 🤠 | Software Developer 💻| Mexican 🇲🇽 </h3>
+<h3 align="center">Farmer 🤠 | Software Developer 💻| Mexican 🇲🇽 | 06/06/96 </h3>
 
 ## About me
 
