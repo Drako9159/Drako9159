@@ -5,8 +5,8 @@
 
 - Systems engineer 💻
 - Network and telecommunications technician 📶
-- Data Analyst
-- UX designer
+- Data Analyst 💾
+- UX designer 📝
 
 ## Tech Stack:
 
