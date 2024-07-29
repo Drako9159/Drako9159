@@ -3,7 +3,7 @@
 
 ## About me
 
-- Systems engineer 💻
+- Computer Systems Engineer 💻
 - Network and telecommunications technician 📶
 - Data Analyst 💾
 - UX designer 📝
